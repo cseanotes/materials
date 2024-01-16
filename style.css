@@ -6,7 +6,7 @@
     100% {background-color:red; left:0px; top:0px;}
   }
 .div1{
-    padding:10px;
+  
     border-style: solid;
     border-color: rgb(138, 34, 81);
     border-radius: 5px;
@@ -51,7 +51,7 @@ p1
   animation-name: example;
   animation-duration: 4s;
   box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-
+  margin:10px;
  border-color: transparent;
 }
 .con1{
