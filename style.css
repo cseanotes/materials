@@ -39,8 +39,8 @@ p1
 
 .b1
 {
-    height: 100px;
-    width:150px;
+    height: 80px;
+    width:100px;
     font-size: medium;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: whitesmoke;
@@ -58,8 +58,8 @@ p1
     padding: 10px;
 }
 #ph{
-    height: 100px;
-    width:150px;
+    height: 80px;
+    width:100px;
     font-size: medium;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(188, 85, 183);
