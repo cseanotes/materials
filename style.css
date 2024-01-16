@@ -51,7 +51,7 @@ p1
   animation-name: example;
   animation-duration: 4s;
   box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
- margin: 10px;
+
  border-color: transparent;
 }
 .con1{
@@ -70,7 +70,7 @@ p1
   animation-name: example;
   animation-duration: 4s;
   box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
- margin: 30px;
+
 }
 #cp{
     background-image: url("https://images.pexels.com/photos/11035478/pexels-photo-11035478.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");  
