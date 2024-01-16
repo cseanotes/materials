@@ -1,0 +1,127 @@
+@keyframes example {
+    0%   {background-color: rgb(12, 134, 171); left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+  }
+.div1{
+    padding: 8px;
+    border-style: solid;
+    border-color: rgb(138, 34, 81);
+    border-radius: 5px;
+}
+h1{
+    color: rgb(129, 33, 66);
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    font-size: larger;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url("background-img1.jpg");
+    text-align:center;
+    padding: 25px;
+   height: 50px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   text-transform: uppercase;
+
+   border-radius: 8px;
+   
+} 
+p1
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    padding: 10px;
+   
+}
+
+.b1
+{
+    height: 100px;
+    width:150px;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    border-radius: 15px;
+   background-image: url("maths.jpg");
+   background-repeat: no-repeat;
+  animation-name: example;
+  animation-duration: 4s;
+  box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ margin: 30px;
+ border-color: transparent;
+}
+.con1{
+    padding: 10px;
+}
+#ph{
+    height: 100px;
+    width:150px;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(188, 85, 183);
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+    border-radius: 8px;
+   background-image: url("physics.jpg");
+   background-repeat: no-repeat;
+  animation-name: example;
+  animation-duration: 4s;
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ margin: 30px;
+}
+#cp{
+    background-image: url("https://images.pexels.com/photos/11035478/pexels-photo-11035478.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");  
+}
+#eng{
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/21/18/13/aged-1846959_1280.jpg");  
+}
+.h21
+{
+    color: rgb(181, 130, 30);
+    text-shadow: 2px 1.8px 2px rgb(0, 0, 0);
+    font-size: larger;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+    
+}
+.c
+{
+    text-align: center;
+    padding: 20px;
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+}
+.tile{
+    width: 200px;
+
+}
+.flex-container {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 12px;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .btd{
+    height: 40px;
+    background-color: yellow;
+ border-color: transparent;
+    border-radius: 9px;
+    padding: 5px;
+   width: 100px;
+   margin-left: auto;
+   box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+.mr{
+    margin-left: auto;
+}
+.mr1{
+    padding: 10px;
+}
