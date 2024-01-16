@@ -57,27 +57,7 @@ p1
 .con1{
     padding: 10px;
 }
-#ph{
-    height: 80px;
-    width:100px;
-    font-size: medium;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(188, 85, 183);
-    text-shadow: 2px 2px 5px rgb(255, 255, 255);
-    border-radius: 8px;
-   background-image: url("physics.jpg");
-   background-repeat: no-repeat;
-  animation-name: example;
-  animation-duration: 4s;
-  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
-}
-#cp{
-    background-image: url("https://images.pexels.com/photos/11035478/pexels-photo-11035478.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");  
-}
-#eng{
-    background-image: url("https://cdn.pixabay.com/photo/2016/11/21/18/13/aged-1846959_1280.jpg");  
-}
 .h21
 {
     color: rgb(181, 130, 30);
